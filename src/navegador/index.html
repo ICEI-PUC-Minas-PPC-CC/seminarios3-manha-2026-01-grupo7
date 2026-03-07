@@ -1,22 +1,58 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
-    <base href="/seminarios3-manha-2026-01-grupo7/src/navegador/">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tuco</title>
     <style>
-        html, body {
-            width: 100%;
-            height: 100%;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: #121212;
+        html, body, #compose-app {
+            width: 100%; height: 100%; margin: 0; padding: 0;
+            background-color: #121212; overflow: hidden;
+        }
+        div[vw] {
+            z-index: 2147483647 !important;
         }
     </style>
 </head>
-<body id="compose-app">
+<body>
+    <div id="compose-app"></div>
+
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+        // Inicializa o widget do VLibras
+        const vlibrasWidget = new window.VLibras.Widget('https://vlibras.gov.br/app');
+
+        /**
+         * FUNÇÃO QUE O KOTLIN CHAMARÁ
+         * Esta função recebe o texto do TucoText e força o VLibras a traduzir.
+         */
+        window.translateToLibras = function(text) {
+            console.log("Tuco: Traduzindo para Libras ->", text);
+            
+            // O plugin oficial do VLibras expõe o player globalmente
+            // A forma mais garantida de forçar uma tradução programática:
+            if (window.window.plugin && window.window.plugin.player) {
+                window.window.plugin.player.translate(text);
+            } else {
+                // Caso o player ainda não esteja pronto, tentamos simular um elemento
+                console.warn("VLibras Player não está pronto. Tentando fallback...");
+                const temp = document.createElement('div');
+                temp.innerText = text;
+                temp.style.display = 'none';
+                document.body.appendChild(temp);
+                temp.click(); // O widget costuma ouvir cliques em novos elementos
+                document.body.removeChild(temp);
+            }
+        };
+    </script>
+
     <script type="application/javascript" src="composeApp.js"></script>
 </body>
 </html>
