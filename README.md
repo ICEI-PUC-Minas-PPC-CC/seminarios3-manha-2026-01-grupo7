@@ -61,35 +61,21 @@ Criação de novos conteudos/puzzles pensado na demanda da escola.
 ---
 
 ## 📁 Estrutura do Repositório
-
-```cmd
-├── README.md                              ← Este arquivo
-├── docs/
-│   ├── 01-termo-autorizacao.md         ← Termo de autorização e agendamento
-│   ├── 02-documento-requisitos.md      ← Documento de requisitos do software
-│   ├── 03-plano-desenvolvimento.md     ← Plano e cronograma de desenvolvimento
-│   ├── 04-checklist-logistica.md       ← Checklist de preparação e logística
-│   ├── 05-diario-bordo.md             ← Diário de bordo do grupo
-│   └── 06-registro-contatos.md         ← Registro de contatos com a comunidade
-├── src/                                   ← Código-fonte da aplicação
-│   └── README.md                          ← Instruções de setup e execução
-├── evidencias/
-│   ├── fotos/                             ← Fotos da entrega presencial
-│   └── prints/                            ← Prints de tela da aplicação
-└── relatorios/
-    └── 07-relatorio-atividades.md      ← Base para o relatório APC (grupo)
-```
-
----
-
-## 🛠️ Tecnologias Sugeridas
-
-O grupo tem liberdade de escolha. Sugestões do professor:
-
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end (opcional):** Node.js, Python (Flask/Streamlit), etc.
-- **Hospedagem gratuita:** Streamlit App, Vercel, Netlify, GitHub Pages, Railway
-
+- [README.md](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7) - *Este arquivo*
+- [📂 docs/](docs/) — *Documentação técnica e administrativa*
+  - [📄 01. Termo de Autorização](docs/01-termo-autorizacao.md)
+  - [📄 02. Documento de Requisitos](docs/02-documento-requisitos.md)
+  - [📄 03. Plano de Desenvolvimento](docs/03-plano-desenvolvimento.md)
+  - [📄 04. Checklist de Logística](docs/04-checklist-logistica.md)
+  - [📄 05. Diário de Bordo](docs/05-diario-bordo.md)
+  - [📄 06. Registro de Contatos](docs/06-registro-contatos.md)
+- [📂 src/](src/) — *Código-fonte e instruções de build*
+  - [🚀 Guia de Setup](src/README.md)
+- [📂 evidencias/](evidencias/) — *Comprovações do projeto*
+  - [🖼️ Fotos da Entrega](evidencias/fotos/)
+  - [🖥️ Prints da Aplicação](evidencias/prints/)
+- [📂 relatorios/](relatorios/) — *Finalização*
+  - [📊 07. Relatório de Atividades APC](relatorios/07-relatorio-atividades.md)
 ---
 
 ## 📋 Fluxo de Trabalho
