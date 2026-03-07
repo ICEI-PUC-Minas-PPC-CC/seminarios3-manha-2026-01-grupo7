@@ -1,45 +1,42 @@
-# 📂 Código-Fonte da Aplicação
-
-> Coloque aqui o código-fonte do software desenvolvido pelo grupo.
-
----
-
 ## Informações do Projeto
 
 | Campo | Informação |
 |-------|-----------|
-| Nome da aplicação | *(preencher)* |
-| Tecnologias utilizadas | *(preencher)* |
-| URL em produção | *(preencher, se hospedado)* |
+| Nome da aplicação | *Tuco* |
+| Tecnologias utilizadas | *vLibras, nanoHTTPD, SQLDelight, JSON, Koin, JAVA16 * |
+| URL em produção | *https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/* |
 
 ## Como Executar Localmente
 
-*(Descreva os passos para rodar a aplicação localmente.)*
+1.Abra o terminal na pasta extraida  
+2.Execute:
+```python
+python -m http.server 8080
+```
+3.Acesse http://localhost:8080 no navegador.
 
-```bash
-# Exemplo:
-# 1. Clone o repositório
-git clone <url-do-repositorio>
-
-# 2. Instale as dependências
-npm install
-
-# 3. Execute a aplicação
-npm start
+Ou se tiver node.js instalado
+```js
+npx serve
 ```
 
 ## Estrutura do Código
 
 ```
-src/
+src/navegador
 ├── index.html
-├── style.css
-├── script.js
-└── ...
+├── composeApp.js
+├── 14fbbd1d91cd37b3976a.wasm
+└── composeResources/synapse.composeapp.generated.resources - arquivos do projeto
+
+src/binarios/
+├── tuco.apk - Aplciativo para celular android.
+└── tuco.exe - Programa para windows.
 ```
 
-*(Adapte conforme as tecnologias escolhidas pelo grupo.)*
+## Instalação de .APKs
+Desativar
 
 ## Deploy
-
-*(Descreva como foi feito o deploy e onde a aplicação está hospedada.)*
+A aplicação está hospedada no github pages e utiliza o banco de dados na pasta resources
+O deploy foi feito apenas ativando a opção, subi os arquivos pelo GitHub desktop e a plataforma detectou e atualizou o site sozinha.
