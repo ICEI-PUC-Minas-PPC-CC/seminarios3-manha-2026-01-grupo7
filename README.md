@@ -18,7 +18,7 @@
 ---
 
 ## Links de Acesso Rápido
-Aplicativo hospedado no github pages: [Tuco no navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/)
+Aplicativo hospedado no github pages: [Tuco no navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/)  
 Formulário/Pesquisa de satisfação: [Google Forms](https://forms.gle/TrXwMtKvfEEvAwcs7)
 
 ## 🎯 Software em Desenvolvimento
