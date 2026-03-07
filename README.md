@@ -10,16 +10,49 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| **Nome do Grupo** | *(preencher)* |
-| **Integrantes** | *(listar todos)* |
-| **E-mail de contato** | *(preencher)* |
-| **Comunidade parceira** | *(preencher)* |
+| **Nome do Grupo** | *Tuco* |
+| **Integrantes** | *Felipe Gonçalves Chagas Leite* |
+| **E-mail de contato** | *felipe.chagas@sga.pucminas.br* |
+| **Comunidade parceira** | *Escola Municipal Doutor Tarso de Coimbra* |
 
 ---
 
-## 🎯 Software a Ser Desenvolvido
+## 🎯 Software em Desenvolvimento
 
-(Descreva brevemente a aplicação que será desenvolvida e seu objetivo.)
+### 🦜 Plataforma Tuco (apelido de tucano) 🦜
+Quem ainda não conhece o aplicativo Duolingo (aprendizado de linguas), o Mimo (aprendizado de programação) e por fim o NotebookLM?
+O tuco é diferente, explorando todas as ideias/técnicas de aprendizado. Todo código foi pensado para ser uma interface generica para aceitar, qualquer tipo de conteúdo.
+A plataforma tem mais de 8 modelos de puzzles e +10 ideias em etapa de refinamento.
+Metodo de flashcards com repetição espaçada.
+
+### Motivação
+Esse é um dos meus projetos pessoais, que estava desenvolvendo com um amigo a alguns anos atrás. Eu precisava de um aplicativo para aprender programação, só que a maioria dos aplicativos que encontrei eram pagos e precisava de uma conexão online. Além disso eram bem chatos e com conteúdo muito simples que chega a ser entediante.
+
+Frase do psicólogo Eslen Delanogare:
+- "A excelência é apenas o resultado de fazer o básico bem-feito todos os dias."
+
+### Objetivo
+1. Estudar se o design está amigável ao público.
+2. Explorar novas ideias e adequar a plataforma a pessoa com deficiência.
+3. Lançar essa plataforma para o mercado, com a publicação nas lojas oficias de aplicativos.
+
+### Barreiras e Desafios
+Integração com vlibras (foi planejado para web), tendo um problema de compatibilidade com a aplicação.
+Exportar para um site web.
+Criação de novos conteudos/puzzles pensado na demanda da escola.
+
+### Beneficios
+#### Para a comunidade
+- Um aplicativo gratuito de verdade.
+- Aprendizado facilitado em qualquer dispositivo.
+- Correção de problemas e atualizações. (eu tenho um carinho grande por esse projeto e quero manter a aplicação atualizada em meu tempo livre, além do período da disciplina.)
+
+#### Para mim
+- Aprendendo um pouco sobre arquitetura de software e design.
+- Estou conhecendo muitas blibiotecas e regras de desenvolvimento, para manter o projeto de fácil manutenção.
+- Alguns puzzles criados, envolve diretamente conteúdos já estudados em AED II.
+- Aumento da criatividade, pensar em puzzles e novas funcionalidades, leva mais tempo do que programar.
+- Um app para eu revisar e continuar aprendendo linguagens de programação.
 
 ---
 
@@ -45,16 +78,6 @@
 
 ---
 
-## 📋 Fluxo de Trabalho
-
-1. **Etapa 1 — Formação e Contato Inicial:** Preencher o `README.md`, contatar a comunidade, levantar demandas (`docs/06-registro-contatos.md`) e preencher o termo (`docs/01-termo-autorizacao.md`).
-2. **Etapa 2 — Requisitos:** Documentar os requisitos do software em contato com a comunidade (`docs/02-documento-requisitos.md`).
-3. **Etapa 3 — Desenvolvimento:** Desenvolver a aplicação (`src/`), seguindo o plano (`docs/03-plano-desenvolvimento.md`) e registrando o progresso (`docs/05-diario-bordo.md`).
-4. **Etapa 4 — Entrega Presencial:** Entregar o software presencialmente à comunidade. Registrar fotos em `evidencias/fotos/`.
-5. **Etapa 5 — Relatórios:** Preencher os relatórios no APC usando como base no `relatorios/07-relatorio-atividades.md`.
-
----
-
 ## 🛠️ Tecnologias Sugeridas
 
 O grupo tem liberdade de escolha. Sugestões do professor:
@@ -65,6 +88,15 @@ O grupo tem liberdade de escolha. Sugestões do professor:
 
 ---
 
+## 📋 Fluxo de Trabalho
+
+1. **Etapa 1 — Formação e Contato Inicial:** Preencher o `README.md`, contatar a comunidade, levantar demandas (`docs/06-registro-contatos.md`) e preencher o termo (`docs/01-termo-autorizacao.md`).
+2. **Etapa 2 — Requisitos:** Documentar os requisitos do software em contato com a comunidade (`docs/02-documento-requisitos.md`).
+3. **Etapa 3 — Desenvolvimento:** Desenvolver a aplicação (`src/`), seguindo o plano (`docs/03-plano-desenvolvimento.md`) e registrando o progresso (`docs/05-diario-bordo.md`).
+4. **Etapa 4 — Entrega Presencial:** Entregar o software presencialmente à comunidade. Registrar fotos em `evidencias/fotos/`.
+5. **Etapa 5 — Relatórios:** Preencher os relatórios no APC usando como base no `relatorios/07-relatorio-atividades.md`.
+
+---
 ## ⚠️ Lembretes Importantes
 
 - O grupo **deve manter contato com a comunidade** ao longo do semestre (reuniões presenciais ou online).
