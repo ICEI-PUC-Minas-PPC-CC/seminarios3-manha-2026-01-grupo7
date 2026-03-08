@@ -32,9 +32,6 @@ Metodo de flashcards com repetição espaçada.
 ### Motivação
 Esse é um dos meus projetos pessoais, que estava desenvolvendo com um amigo a alguns anos atrás. Eu precisava de um aplicativo para aprender programação, só que a maioria dos aplicativos que encontrei eram pagos e precisava de uma conexão online. Além disso eram bem chatos e com conteúdo muito simples que chega a ser entediante.
 
-Frase do psicólogo Eslen Delanogare:
-- "A excelência é apenas o resultado de fazer o básico bem-feito todos os dias."
-
 ### Objetivo
 1. Estudar se o design está amigável ao público.
 2. Explorar novas ideias e adequar a plataforma a pessoa com deficiência.
