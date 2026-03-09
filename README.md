@@ -1,19 +1,33 @@
+<!--
+---
+## ⚠️ Lembretes Importantes
+
+- O grupo **deve manter contato com a comunidade** ao longo do semestre (reuniões presenciais ou online).
+- A entrega do software **deve ser presencial** (no colégio parceiro ou na PUC Minas).
+- **Tirem muitas fotos** no dia da entrega — elas serão anexadas ao relatório APC.
+- Mantenham o **diário de bordo atualizado** ao longo do semestre.
+- Idealmente, o software deve ser **hospedado em nuvem** para acesso pela Internet.
+- Sem o desenvolvimento do software, entrega presencial e preenchimento dos relatórios, o grupo **não pode ser aprovado**.
+-->
+
+<!--Cabeçalho-->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/be9b27db-5c80-422b-b701-e46a1c20ecce" width="120" alt="Mascote Synapse">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FICEI-PUC-Minas-PPC-CC%2Fseminarios3-manha-2026-01-grupo7%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FICEI-PUC-Minas-PPC-CC%2Fseminarios3-manha-2026-01-grupo7%2F&label=VISITANTES&labelColor=%23f47373&countColor=%23263759" /></a>
-  
-  # Plataforma Tuco
+  <h1>Plataforma Tuco</h1>
   *Sim, um tucano. Porque eles são bonitos.*
 
   [🚀 Testar no Navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/) • [📋 Pesquisa de Satisfação](https://forms.gle/TrXwMtKvfEEvAwcs7)
 </div>
 
+<img width="240" alt="imagem de marketing flashcard" src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/prints/marketing_tuco_flashcards.png">
+
+
 <!-- Identificação do repositorio-->
 <table align="center">
   <tr>
     <td width="100%" valign="top">
-
-## 💻 Seminários III — Projeto Extensionista
+      <h3> 💻 Seminários III — Projeto Extensionista </h3>
 
 > **Disciplina:** Seminários III — PUC Minas  
 > **Professor:** Harison Herman Silva  
@@ -22,7 +36,7 @@
    </td>
    <td width="100%" valign="top">
 
-## 👥 Identificação do Grupo
+<h3> 👥 Identificação do Grupo </h3>
 
 | Campo | Informação |
 | :--- | :--- |
@@ -34,41 +48,39 @@
    </td>
   </tr>
 </table>
-
----
+</td>
 
 ## 🎯 Software em Desenvolvimento
 
 ### 🦜 Plataforma Tuco (apelido de tucano) 🦜
-Quem ainda não conhece o aplicativo Duolingo (aprendizado de linguas), o Mimo (aprendizado de programação) e por fim o NotebookLM?
-O tuco é diferente, explorando todas as ideias/técnicas de aprendizado. Todo código foi pensado para ser uma interface generica para aceitar, qualquer tipo de conteúdo.
+Quem não conhece o aplicativo Duolingo (aprendizado de linguas), o Mimo (aprendizado de programação) e por fim o NotebookLM?
+O tuco é diferente, explorando todas as ideias/técnicas de aprendizado. Todo o código foi pensado para ser uma interface genérica para aceitar, qualquer tipo de conteúdo.
 A plataforma tem mais de 8 modelos de puzzles e +10 ideias em etapa de refinamento.
-Metodo de flashcards com repetição espaçada.
+E utiliza o metódo de flashcards com repetição espaçada.
 
 ### Motivação
-Esse é um dos meus projetos pessoais, que estava desenvolvendo com um amigo a alguns anos atrás. Eu precisava de um aplicativo para aprender programação, só que a maioria dos aplicativos que encontrei eram pagos e precisava de uma conexão online. Além disso eram bem chatos e com conteúdo muito simples que chega a ser entediante.
+Esse é um dos meus projetos pessoais, que estava desenvolvendo com um amigo a alguns anos atrás. Eu precisava de um aplicativo para aprender programação, só que a maioria dos aplicativos que encontrei, eram pagos e precisava de uma conexão online. Além disso eram chatos e com conteúdo muito simples.
 
 ### Objetivo
-1. Estudar se o design está amigável ao público.
-2. Explorar novas ideias e adequar a plataforma a pessoa com deficiência.
+1. Estudar se o design está amigável ao público, explorando diferentes UIs.
+2. Explorar novas ideias de puzzle e adequar a plataforma a pessoa com deficiência.
 3. Lançar essa plataforma para o mercado, com a publicação nas lojas oficias de aplicativos.
 
-### Barreiras e Desafios
-Integração com vlibras (foi planejado para web), tendo um problema de compatibilidade com a aplicação.
-Exportar para um site web.
-Criação de novos conteudos/puzzles pensado na demanda da escola.
+### Demandas e Desafios
+Integração com vlibras em todas as plataformas (foi planejado para web).
+Criação de novos conteudos/puzzles para a escola.
 
 ### Beneficios
 #### Para a comunidade
 - Um aplicativo gratuito de verdade.
 - Aprendizado facilitado em qualquer dispositivo.
-- Correção de problemas e atualizações. (eu tenho um carinho grande por esse projeto e quero manter a aplicação atualizada em meu tempo livre, além do período da disciplina.)
+- Correção de problemas e atualizações. (eu tenho um carinho por esse projeto e quero manter a aplicação atualizada em meu tempo livre, além do período da disciplina.)
 
 #### Para mim
 - Aprendendo um pouco sobre arquitetura de software e design.
 - Estou conhecendo muitas blibiotecas e regras de desenvolvimento, para manter o projeto de fácil manutenção.
 - Alguns puzzles criados, envolve diretamente conteúdos já estudados em AED II.
-- Aumento da criatividade, pensar em puzzles e novas funcionalidades, leva mais tempo do que programar.
+- Aumento da criatividade, pensar em puzzles e novas funcionalidades (leva mais tempo do que programar).
 - Um app para eu revisar e continuar aprendendo linguagens de programação.
 
 ---
@@ -93,18 +105,10 @@ Criação de novos conteudos/puzzles pensado na demanda da escola.
 
 ## 📋 Fluxo de Trabalho
 
-1. **Etapa 1 — Formação e Contato Inicial:** Preencher o `README.md`, contatar a comunidade, levantar demandas (`docs/06-registro-contatos.md`) e preencher o termo (`docs/01-termo-autorizacao.md`).
-2. **Etapa 2 — Requisitos:** Documentar os requisitos do software em contato com a comunidade (`docs/02-documento-requisitos.md`).
-3. **Etapa 3 — Desenvolvimento:** Desenvolver a aplicação (`src/`), seguindo o plano (`docs/03-plano-desenvolvimento.md`) e registrando o progresso (`docs/05-diario-bordo.md`).
-4. **Etapa 4 — Entrega Presencial:** Entregar o software presencialmente à comunidade. Registrar fotos em `evidencias/fotos/`.
-5. **Etapa 5 — Relatórios:** Preencher os relatórios no APC usando como base no `relatorios/07-relatorio-atividades.md`.
+1. [x] **Etapa 1 — Formação e Contato Inicial:** Preencher o `README.md`, contatar a comunidade, levantar demandas (`docs/06-registro-contatos.md`) e preencher o termo (`docs/01-termo-autorizacao.md`).
+2. [ ] **Etapa 2 — Requisitos:** Documentar os requisitos do software em contato com a comunidade (`docs/02-documento-requisitos.md`).
+3. [ ] **Etapa 3 — Desenvolvimento:** Desenvolver a aplicação (`src/`), seguindo o plano (`docs/03-plano-desenvolvimento.md`) e registrando o progresso (`docs/05-diario-bordo.md`).
+4. [ ] **Etapa 4 — Entrega Presencial:** Entregar o software presencialmente à comunidade. Registrar fotos em `evidencias/fotos/`.
+5. [ ] **Etapa 5 — Relatórios:** Preencher os relatórios no APC usando como base no `relatorios/07-relatorio-atividades.md`.
 
----
-## ⚠️ Lembretes Importantes
 
-- O grupo **deve manter contato com a comunidade** ao longo do semestre (reuniões presenciais ou online).
-- A entrega do software **deve ser presencial** (no colégio parceiro ou na PUC Minas).
-- **Tirem muitas fotos** no dia da entrega — elas serão anexadas ao relatório APC.
-- Mantenham o **diário de bordo atualizado** ao longo do semestre.
-- Idealmente, o software deve ser **hospedado em nuvem** para acesso pela Internet.
-- Sem o desenvolvimento do software, entrega presencial e preenchimento dos relatórios, o grupo **não pode ser aprovado**.
