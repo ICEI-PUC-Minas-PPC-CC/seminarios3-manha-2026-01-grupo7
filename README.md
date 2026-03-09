@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/be9b27db-5c80-422b-b701-e46a1c20ecce" width="120" alt="Mascote Synapse">
+
+  # Plataforma Tuco
+  *Sim, um tucano. Porque eles são bonitos.*
+
+  [🚀 Testar no Navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/) • [📋 Pesquisa de Satisfação](https://forms.gle/TrXwMtKvfEEvAwcs7)
+</div>
 # 💻 Seminários III — Projeto Extensionista
 
 > **Disciplina:** Seminários III — PUC Minas  
@@ -18,8 +26,7 @@
 ---
 
 ## Links de Acesso Rápido
-Aplicativo hospedado no github pages: [Tuco no navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/)  
-Formulário/Pesquisa de satisfação: [Google Forms](https://forms.gle/TrXwMtKvfEEvAwcs7)
+
 
 ## 🎯 Software em Desenvolvimento
 
