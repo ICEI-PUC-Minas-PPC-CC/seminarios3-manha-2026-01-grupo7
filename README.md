@@ -1,12 +1,14 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/be9b27db-5c80-422b-b701-e46a1c20ecce" width="120" alt="Mascote Synapse">
-
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FICEI-PUC-Minas-PPC-CC%2Fseminarios3-manha-2026-01-grupo7%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FICEI-PUC-Minas-PPC-CC%2Fseminarios3-manha-2026-01-grupo7%2F&label=VISITANTES&labelColor=%23f47373&countColor=%23263759" /></a>
+  
   # Plataforma Tuco
   *Sim, um tucano. Porque eles são bonitos.*
 
   [🚀 Testar no Navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/) • [📋 Pesquisa de Satisfação](https://forms.gle/TrXwMtKvfEEvAwcs7)
 </div>
 
+<!-- Identificação do repositorio-->
 <table align="center">
   <tr>
     <td width="100%" valign="top">
