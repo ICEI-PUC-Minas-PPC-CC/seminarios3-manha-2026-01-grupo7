@@ -3,8 +3,8 @@
 > **Status:**  (adicione um "x" para completar cada nível)
 
 - [x] Visualizado
-- [ ] Pendente
-- [ ] Enviado ao professor
+- [x] Pendente
+- [x] Enviado ao professor
 - [ ] Aprovado  
 
 > **Versão do termo .docx:** [baixar na atividade do Canvas]
@@ -15,20 +15,20 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes | |
-| E-mail de contato | |
-| Telefone de contato | |
+| Nome do Grupo | Tuco |
+| Integrantes | Felipe Gonçalves Chagas Leite|
+| E-mail de contato | felipe.chagas@sga.pucminas.br|
+| Telefone de contato | (35) 998884586|
 
 ## 2. Dados da Comunidade / Instituição Parceira
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da instituição | |
-| Endereço | |
-| Nome do responsável | |
+| Nome da instituição | Escola Municipal Doutor Tarso de Coimbra|
+| Endereço | R. Mario Xandó de Oliveira, 2 - São Geraldo, Poços de Caldas|
+| Nome do responsável | Fabiana Scassiotti Fernandes Solia|
 | Cargo/Função | |
-| Telefone ou e-mail da instituição | |
+| Telefone ou e-mail da instituição | não autorizado/dado sensivel |
 
 > **Nota:** O professor responsável pela disciplina poderá entrar em contato com a comunidade/instituição acima indicada para fins de validação das informações, acompanhamento do desenvolvimento, ajustes no planejamento e alinhamentos necessários à entrega do software.
 
@@ -36,40 +36,39 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Título/Tema da aplicação | |
-| Público-alvo | |
-| Nº estimado de usuários | |
-| Faixa etária do público | |
-| Tecnologias previstas | |
-| Hospedagem prevista | |
+| Título/Tema da aplicação | Tuco|
+| Público-alvo | Todos (pessoas com deficiência auditiva, TDAH)|
+| Nº estimado de usuários | Mais de 6|
+| Faixa etária do público | Maiores de 12 anos|
+| Tecnologias previstas | Site online, aplicativo android/ios, programa para windows.|
+| Hospedagem prevista | Apenas o site utiliza githubpages.|
 
 ### Breve descrição da aplicação e sua finalidade
 
-(Descreva aqui o software que será desenvolvido, seus objetivos e como atende às demandas da comunidade.)
+A aplicação já estava sendo desenvolvida a alguns anos, a meta é ajustar para acessibilidade. A finalidade é trazer várias formas de ensinar, através de puzzles. Resumidamente é um duolingo gratuito e offline.
 
 ## 4. Levantamento de Demandas da Comunidade
 
-(Descreva como as demandas foram levantadas — reuniões presenciais, reuniões online, conversa com responsável, questionário, etc. — e como a aplicação proposta atende a essas demandas.)
+Atraves de reunião online com a Fabiana, a demanda foi desenvolver algo (jogos) para ensinar valores ou "matemática comercial".
+O tuco atende a demanda dos jogos com puzzle e pode ser expandido para qualquer outro conteúdo. Integrado o vlibras e futuramente outras ferramentas para acessibilidade.
 
 ### Registro de contatos com a comunidade
 
 | Data | Forma de contato | Resumo do que foi tratado |
 | ------ | ----------------- | -------------------------- |
-| | | |
-| | | |
+| 06/03/2026| Reunião online| Contato inicial e levantamento de demandas.|
+| 09/03/2026| Whatsapp| Agendamento para o teste do protótipo.|
 | | | |
 
 ## 5. Agendamento da Entrega Presencial
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data prevista para entrega | |
+| Data prevista para entrega | a ser definido pelo professor |
 | Horário de início | |
 | Horário de término | |
 | Local de realização | |
 | Data alternativa | |
-
-> **Obs.:** A entrega deve ser, preferencialmente, presencial. O agendamento está sujeito à confirmação pelo professor responsável.
 
 ## 6. Autorização
 

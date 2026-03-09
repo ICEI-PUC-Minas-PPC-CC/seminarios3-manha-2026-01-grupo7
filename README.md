@@ -1,25 +1,41 @@
-# 💻 Seminários III — Projeto Extensionista
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/be9b27db-5c80-422b-b701-e46a1c20ecce" width="120" alt="Mascote Synapse">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FICEI-PUC-Minas-PPC-CC%2Fseminarios3-manha-2026-01-grupo7%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FICEI-PUC-Minas-PPC-CC%2Fseminarios3-manha-2026-01-grupo7%2F&label=VISITANTES&labelColor=%23f47373&countColor=%23263759" /></a>
+  
+  # Plataforma Tuco
+  *Sim, um tucano. Porque eles são bonitos.*
+
+  [🚀 Testar no Navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/) • [📋 Pesquisa de Satisfação](https://forms.gle/TrXwMtKvfEEvAwcs7)
+</div>
+
+<!-- Identificação do repositorio-->
+<table align="center">
+  <tr>
+    <td width="100%" valign="top">
+
+## 💻 Seminários III — Projeto Extensionista
 
 > **Disciplina:** Seminários III — PUC Minas  
-> **Professor Responsável:** Harison Herman Silva  
-> **Formato:** Sala de aula invertida (protagonismo dos alunos)
+> **Professor:** Harison Herman Silva  
+> **Formato:** Sala de aula invertida
 
----
+   </td>
+   <td width="100%" valign="top">
 
 ## 👥 Identificação do Grupo
 
 | Campo | Informação |
-| ------- | ----------- |
-| **Nome do Grupo** | *Tuco* |
-| **Integrantes** | *Felipe Gonçalves Chagas Leite* |
-| **E-mail de contato** | *felipe.chagas@sga.pucminas.br* |
-| **Comunidade parceira** | *Escola Municipal Doutor Tarso de Coimbra* |
+| :--- | :--- |
+| **Grupo** | *Tuco* |
+| **Integrante** | *Felipe Gonçalves Chagas Leite* |
+| **E-mail** | *felipe.chagas@sga.pucminas.br* |
+| **Parceiro** | *Esc. Mun. Dr. Tarso de Coimbra* |
+
+   </td>
+  </tr>
+</table>
 
 ---
-
-## Links de Acesso Rápido
-Aplicativo hospedado no github pages: [Tuco no navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/)  
-Formulário/Pesquisa de satisfação: [Google Forms](https://forms.gle/TrXwMtKvfEEvAwcs7)
 
 ## 🎯 Software em Desenvolvimento
 
