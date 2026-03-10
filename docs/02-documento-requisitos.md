@@ -64,13 +64,25 @@ O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e tam
 
 (Inclua esboços das telas principais ou links para protótipos — mesmo rascunhos simples em papel são válidos. Salvem imagens dos wireframes em `evidencias/prints/`.)
 
-Todo o design/layout pode mudar para adquar-se melhor a experiência e demanda da Tarso.
-
-**Aplicativo para celular + puzzles**
-![Mobile](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/prints/puzzle_print_celular.jpg)
-
-**V libras + site funcional**
-![PRINT_INICIAL](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/prints/inicio_print_tela_inicial_vlibras.png)
+<p align="center">*Todo o design/layout pode mudar para adquar-se melhor a experiência e demanda da Tarso.*</p>
+<table align="center" style="width:100%; border:none;">
+  <tr>
+    <td align="center" style="width:35%; vertical-align:top; border:none;">
+      <strong>Aplicativo para celular + puzzles</strong><br><br>
+      <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/raw/main/evidencias/prints/puzzle_print_celular.jpg" 
+           alt="Mobile App" 
+           width="120" 
+           style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+    <td align="center" style="width:65%; vertical-align:top; border:none;">
+      <strong>V Libras + site funcional</strong><br><br>
+      <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/raw/main/evidencias/prints/inicio_print_tela_inicial_vlibras.png" 
+           alt="Site VLibras" 
+           width="480" 
+           style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+  </tr>
+</table>
 
 ## 8. Escopo Mínimo Viável (MVP)
 
@@ -83,8 +95,7 @@ Todo o design/layout pode mudar para adquar-se melhor a experiência e demanda d
 
 - *Edição fácil dos blocos de conteúdo*
 - *Um modo editor para criar puzzles*
-- *Expansão para ios/mac.
-- **
+- *Expansão para ios/mac.*
 
 ## Blibiografia
 
