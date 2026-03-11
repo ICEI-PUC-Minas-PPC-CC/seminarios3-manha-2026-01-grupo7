@@ -69,6 +69,6 @@ Fotos da reunião e futura visita presencial a escola para discussão de ideias.
 
 | # | Demanda | Prioridade | Como será atendida no software |
 | --- | --------- | :----------: | ------------------------------- |
-| 1 | | *(Alta/Média/Baixa)* | |
-| 2 | | | |
+| 1 | Acesibilidade com v-libras | Alta | Foi integrado ao carregamento do html do site ao v-libras|
+| 2 | Conteudo sobre valores | Alta | Será colocada como tópico principal |
 | 3 | | | |
