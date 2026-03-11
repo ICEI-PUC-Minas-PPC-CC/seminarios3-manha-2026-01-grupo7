@@ -1,6 +1,6 @@
 # 06 — Registro de Contatos com a Comunidade
 
-> **Grupo:** *Tuco*  
+> **Grupo:** *Felipe Gonçalves - Tuco*  
 > **Comunidade:** *Escola Municipal Doutor Tarso de Coimbra*
 
 As quintas das 14h às 16h20 no Laboratório de Informática 3 da PUC Minas *campus* Poços de Caldas.
@@ -13,17 +13,19 @@ As quintas das 14h às 16h20 no Laboratório de Informática 3 da PUC Minas *cam
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | |
-| Forma de contato | *(Presencial / Online / E-mail / Telefone / WhatsApp)* |
+| Data | 09/03/2026 |
+| Forma de contato | *Whatsapp)* |
 | Participantes do grupo | |
-| Participantes da comunidade | |
-| Objetivo do contato | |
+| Participantes da comunidade | Diretora |
+| Objetivo do contato | Validação da plataforma e agendamento da reunião. |
 
 **Resumo do que foi tratado:**
-(Descrever o que foi discutido, decisões tomadas, demandas identificadas.)
+Primeiro contato com a diretora para a aprovação da continuidade do desenvolvimento do projeto.  
+Analise do conteúdo a ser oferecido na quinta-feira as 14 hrs do dia 12/03/2026.  
+Demandado a atualização do conteúdo para redução de textos.
 
 **Encaminhamentos:**
-(O que ficou combinado para a próxima interação?)
+Fotos da reunião e futura visita presencial a escola para discussão de ideias.
 
 ---
 
