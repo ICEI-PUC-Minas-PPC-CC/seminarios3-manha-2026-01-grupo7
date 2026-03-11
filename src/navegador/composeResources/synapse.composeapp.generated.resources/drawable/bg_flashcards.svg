@@ -1,0 +1,14 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Folhas-cards espalhadas -->
+    <rect x="100" y="150" width="120" height="160" rx="20" fill="#8BC34A" opacity="0.3" transform="rotate(-15 160 230)"/>
+    <rect x="550" y="200" width="100" height="140" rx="15" fill="#4CAF50" opacity="0.25" transform="rotate(10 600 270)"/>
+    <rect x="150" y="600" width="140" height="180" rx="25" fill="#2E7D32" opacity="0.2" transform="rotate(20 220 690)"/>
+    
+    <!-- Cipós/Lianas -->
+    <path d="M0 0C100 200 50 400 150 600C250 800 100 900 200 1000" stroke="#388E3C" stroke-width="4" opacity="0.3"/>
+    <path d="M800 100C700 300 750 500 650 700" stroke="#1B5E20" stroke-width="3" opacity="0.2"/>
+    
+    <!-- Folhas Tropicais -->
+    <path d="M400 450C440 410 500 410 540 450C500 490 440 490 400 450Z" fill="#689F38" opacity="0.4"/>
+    <path d="M50 400C90 360 150 360 190 400C150 440 90 440 50 400Z" fill="#388E3C" opacity="0.3" transform="rotate(-30 120 400)"/>
+</svg>
