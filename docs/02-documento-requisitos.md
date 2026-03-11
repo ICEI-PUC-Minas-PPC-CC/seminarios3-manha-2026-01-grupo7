@@ -1,6 +1,6 @@
 # 02 — Documento de Requisitos do Software
 
-> **Grupo:** *Tuco*  
+> **Grupo:** *Felipe Gonçalves*  
 > **Aplicação:** *Tuco*  
 > **Comunidade:** *Esc. Mun. Dr. Tarso de Coimbra*
 
@@ -8,7 +8,6 @@
 
 ## 1. Visão Geral
 
-(Descreva em poucas frases o que é a aplicação, para quem ela é destinada e qual problema ela resolve.)
 A aplicação é uma plataforma educacional, inicialmente destinada para aprendizado de computação e está sendo expandida para outros conteúdos. Tornando uma ferramenta amigavél de aprendizado, no caso da Tarso expandindo para a acessibilidade e fácil assimilação.
 O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e também a falta de prática de exercícios para fixação e desenvolvimento cognitivo. (DESMURGET)[^2]
 

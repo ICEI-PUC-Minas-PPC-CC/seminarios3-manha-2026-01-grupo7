@@ -12,7 +12,7 @@
 | Felipe Gonçalves | CTO, CEO, Tech Lead, Designer |
 | Qwen3-Coder-16B | Programador Senior|
 | Grok | Arquiteto de Software |
-| Alunas da Tarso | Clientes |
+| Alunos da Tarso | Clientes |
 
 ## 2. Cronograma de Desenvolvimento
 
@@ -23,10 +23,10 @@
 | 3 | | Definição de requisitos | | em refinamento |
 | 4 | | Prototipação / wireframes | | concluido |
 | 5 | | Desenvolvimento — Sprint 1 | | não iniciado |
-| 6 | | Desenvolvimento — Sprint 1 | | não iniciado |
+| 6 | | Desenvolvimento — Sprint 2 | | não iniciado |
 | 7 | | Validação com a comunidade | | não iniciado |
-| 8 | | Desenvolvimento — Sprint 2 | | não iniciado |
-| 9 | | Desenvolvimento — Sprint 2 | | não iniciado |
+| 8 | | Desenvolvimento — Sprint 3 | | não iniciado |
+| 9 | | Desenvolvimento — Sprint 4 | | não iniciado |
 | 10 | | Testes e ajustes | | em andamento |
 | 11 | | Deploy / hospedagem | | concluido |
 | 12 | | Validação final com a comunidade | | não iniciado |
@@ -65,7 +65,7 @@
 
 | Risco | Probabilidade | Impacto | Mitigação |
 | ------- | :------------: | :-------: | ---------- |
-| Atraso no cronograma | | | |
+| Atraso no cronograma || | |
 | Dificuldade técnica inesperada | | | |
 | Comunidade indisponível para reuniões | | | |
 | Problemas de infraestrutura no dia da entrega | | | |

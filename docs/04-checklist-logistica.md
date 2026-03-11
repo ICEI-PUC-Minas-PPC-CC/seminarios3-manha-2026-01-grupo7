@@ -8,21 +8,21 @@
 
 ## 📋 Etapa 1 — Planejamento Inicial
 
-- [ ] Grupo formado e registrado no Canvas
-- [ ] Comunidade/colégio identificado
-- [ ] Primeiro contato realizado com a comunidade
+- [x] Grupo formado e registrado no Canvas
+- [x] Comunidade/colégio identificado
+- [x] Primeiro contato realizado com a comunidade
 - [ ] Demandas levantadas e documentadas (`06-registro-contatos.md`)
-- [ ] Tema/aplicação definido
+- [x] Tema/aplicação definido
 - [ ] Termo de autorização preenchido e assinado (`01-termo-autorizacao.md`)
-- [ ] Termo enviado ao professor para validação
+- [x] Termo enviado ao professor para validação
 - [ ] **Termo aprovado pelo professor**
 
 ## 📋 Etapa 2 — Requisitos e Prototipação
 
 - [ ] Documento de requisitos elaborado (`02-documento-requisitos.md`)
-- [ ] Protótipo/wireframes criados
-- [ ] Protótipo validado com a comunidade
-- [ ] Tecnologias definidas
+- [x] Protótipo/wireframes criados
+- [x] Protótipo validado com a comunidade
+- [x] Tecnologias definidas
 - [ ] Plano de desenvolvimento elaborado (`03-plano-desenvolvimento.md`)
 
 ## 📋 Etapa 3 — Desenvolvimento
@@ -32,8 +32,8 @@
 - [ ] Contato intermediário com a comunidade para validação
 - [ ] MVP funcional concluído
 - [ ] Testes realizados
-- [ ] Deploy em nuvem realizado (se aplicável)
-- [ ] Aplicação acessível pela Internet
+- [x] Deploy em nuvem realizado (se aplicável)
+- [x] Aplicação acessível pela Internet
 
 ## 📋 Etapa 4 — Entrega Presencial
 
