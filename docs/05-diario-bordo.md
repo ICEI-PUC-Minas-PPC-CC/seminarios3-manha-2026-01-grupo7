@@ -1,7 +1,7 @@
 # 05 — Diário de Bordo do Grupo
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*
+> **Grupo:** *Felipe Gonçalves*  
+> **Aplicação:** *Tuco*
 
 ---
 
@@ -11,18 +11,25 @@
 
 ## Registro de Atividades
 
-### Semana 01 — ___/___/___ a ___/___/___
+### Semana 01 — 06/03/2026 a 13/03/2026
 
 **O que foi feito:**
-*(Descrever as atividades realizadas nesta semana: desenvolvimento, reuniões, testes, etc.)*
+1. Primeiro contato com a diretoria da escola.
+2. Planejamento do conteúdo e pesquisa.
+3. Aprimoramento do layout da plataforma.
+4. Reunião e validação do projeto com os alunos.
 
 **Quem participou:**
-*(Listar integrantes envolvidos.)*
+Felipe Gonçalves Chagas Leite
+Professora Maria
+Alunos da Tarso
 
 **Decisões técnicas tomadas:**
-*(Alguma decisão relevante sobre tecnologia, escopo, design, etc.?)*
+Refinamento do layout da plataforma, foram disponibilizados 6 layouts para os alunos escolherem.
+Demanda 1: Redução de textos do conteúdo.
 
 **Próximos passos:**
+Atualização do site no github.
 *(O que precisa ser feito na próxima semana?)*
 
 ---
