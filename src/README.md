@@ -3,7 +3,7 @@
 | Campo | Informação |
 |-------|-----------|
 | Nome da aplicação | *Tuco* |
-| Tecnologias utilizadas | *vLibras, nanoHTTPD, SQLDelight, JSON, Koin, JAVA16 * |
+| Tecnologias utilizadas | *vLibras, nanoHTTPD, SQLight, JSON, Guice, APT, JAVA16 * |
 | URL em produção | *https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/* |
 
 ## Código fonte
@@ -39,7 +39,7 @@ src/navegador
 
 src/binarios/
 ├── tuco.apk - Aplciativo para celular android.
-└── tuco.exe - Programa para windows.
+└── tuco.jar - Programa java (testado no windows).
 ```
 
 ## Deploy

@@ -1,7 +1,7 @@
 # 03 — Plano e Cronograma de Desenvolvimento
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*
+> **Grupo:** *Tuco*  
+> **Aplicação:** *Web*
 
 ---
 
@@ -9,26 +9,26 @@
 
 | Integrante | Responsabilidades principais |
 | ----------- | ------------------------------ |
-| | |
-| | |
-| | |
-| | |
+| Felipe Gonçalves | CTO, CEO, Tech Lead, Designer |
+| Qwen3-Coder-16B | Programador Senior|
+| Grok | Arquiteto de Software |
+| Alunas da Tarso | Clientes |
 
 ## 2. Cronograma de Desenvolvimento
 
 | Semana | Período (dd/MM à dd/MM) | Atividade planejada | Responsável | Status |
 | :------: | --------- | -------------------- | -----------: | :------: |
-| 1 | 18/02 à 25/02 | Formação do grupo | Todos | iniciado |
-| 2 | | Contato com comunidade e Levantamento de demandas | | não iniciado |
-| 3 | | Definição de requisitos | | não iniciado |
-| 4 | | Prototipação / wireframes | | não iniciado |
+| 1 | 18/02 à 25/02 | Formação do grupo | Todos | em andamento |
+| 2 | | Contato com comunidade e Levantamento de demandas | | em andamento |
+| 3 | | Definição de requisitos | | em refinamento |
+| 4 | | Prototipação / wireframes | | concluido |
 | 5 | | Desenvolvimento — Sprint 1 | | não iniciado |
 | 6 | | Desenvolvimento — Sprint 1 | | não iniciado |
 | 7 | | Validação com a comunidade | | não iniciado |
 | 8 | | Desenvolvimento — Sprint 2 | | não iniciado |
 | 9 | | Desenvolvimento — Sprint 2 | | não iniciado |
-| 10 | | Testes e ajustes | | não iniciado |
-| 11 | | Deploy / hospedagem | | não iniciado |
+| 10 | | Testes e ajustes | | em andamento |
+| 11 | | Deploy / hospedagem | | concluido |
 | 12 | | Validação final com a comunidade | | não iniciado |
 | 13 | | **Entrega presencial** | Todos | não iniciado |
 | 14 | | Preenchimento dos relatórios APC | Todos | não iniciado |
