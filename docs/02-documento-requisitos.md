@@ -8,8 +8,9 @@
 
 ## 1. Visão Geral
 
-A aplicação é uma plataforma educacional, inicialmente destinada para aprendizado de computação e está sendo expandida para outros conteúdos. Tornando uma ferramenta amigavél de aprendizado, no caso da Tarso expandindo para a acessibilidade e fácil assimilação.
-O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e também a falta de prática de exercícios para fixação e desenvolvimento cognitivo. (DESMURGET)[^2]
+A aplicação é uma plataforma educacional, inicialmente destinada para aprendizado de computação e está sendo expandida para outros conteúdos. Tornando uma ferramenta amigavél de aprendizado.  
+O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e também a falta de prática de exercícios para fixação e desenvolvimento cognitivo. (DESMURGET)[^2]  
+No caso da Tarso, o problema é a dificuldade na leitura de textos e navegação em aplicações. O conteúdo definido como tema foi o ensino de valores. 
 
 ## 2. Público-Alvo
 
@@ -20,13 +21,15 @@ O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e tam
 | Necessidades de acessibilidade | Libras e baixa quantidade de texto com termos técnicos |
 | Nível de familiaridade com tecnologia | Baixa |
 
+<!--
 > **Lembrete (Tarso de Coimbra):** Os usuários podem ter deficiência auditiva/surdez. A interface deve ser **visual, intuitiva e de baixa complexidade**. Priorize elementos visuais (imagens, ícones, cores) sobre texto extenso.
+-->
 
 ## 3. Requisitos Funcionais
 
 | ID | Requisito | Prioridade | Origem da demanda |
 | ---- | ---------- | :----------: | ------------------ |
-| RF01 | | *(Alta/Média/Baixa)* | *(Reunião com a comunidade em DD/MM)* |
+| RF01 | Análise do layout | *Alto* | Reunião com a comunidade em 11/03 |
 | RF02 | | | |
 | RF03 | | | |
 | RF04 | | | |
@@ -44,10 +47,9 @@ O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e tam
 - [x] Interface predominantemente visual (ícones, cores, imagens)
 - [x] Textos curtos e objetivos
 - [ ] Botões grandes e identificáveis
-- [ ] Contraste adequado de cores
+- [x] Contraste adequado de cores
 - [x] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [x] Sem dependência de áudio para funcionalidades essenciais
-- [ ] Outro: *(especificar)*
 
 ## 6. Tecnologias Escolhidas
 
@@ -61,7 +63,9 @@ O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e tam
 
 ## 7. Protótipo / Wireframes
 
+<!--
 (Inclua esboços das telas principais ou links para protótipos — mesmo rascunhos simples em papel são válidos. Salvem imagens dos wireframes em `evidencias/prints/`.)
+-->
 
 <p align="center">*Todo o design/layout pode mudar para adquar-se melhor a experiência e demanda da Tarso.*</p>
 <table align="center" style="width:100%; border:none;">
@@ -89,12 +93,14 @@ O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e tam
 
 - [x] *Integração com v-Libras*
 - [ ] *Layout mais intuitivo*
+- [ ] *Conteúdo com o tema valores.*
+- [ ] *Novos puzzles mais visuais.*
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
-- *Edição fácil dos blocos de conteúdo*
-- *Um modo editor para criar puzzles*
-- *Expansão para ios/mac.*
+- [x] *Edição fácil dos blocos de conteúdo*
+- [ ] *Um modo editor para criar puzzles*
+- [ ] *Expansão para ios/mac.*
 
 ## Blibiografia
 
