@@ -102,7 +102,5 @@ No caso da Tarso, o problema é a dificuldade na leitura de textos e navegação
 - [ ] *Um modo editor para criar puzzles*
 - [ ] *Expansão para ios/mac.*
 
-## Blibiografia
-
 [^1]:WOLF, Maryanne. O cérebro no mundo digital: os desafios da leitura na nossa era. Tradução de Rodolfo Ilari; Mayumi Ilari. São Paulo: Contexto, 2019.
 [^2]:DESMURGET, Michel. Faça-os ler! Por que as telas estão prejudicando nossos filhos e como salvá-los. São Paulo: Vestígio, 2023.
