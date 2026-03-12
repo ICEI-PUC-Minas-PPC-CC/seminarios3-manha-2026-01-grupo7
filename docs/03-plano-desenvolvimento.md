@@ -9,9 +9,9 @@
 
 | Integrante | Responsabilidades principais |
 | ----------- | ------------------------------ |
-| Felipe Gonçalves | CTO, CEO, Tech Lead, Designer |
+| Felipe Gonçalves | CTO, CEO, PO, Qway, Tech Lead.  |
 | Qwen3-Coder-16B | Programador Senior|
-| Grok | Arquiteto de Software |
+| Grok | Arquiteto de Software, Designer |
 | Alunos da Tarso | Clientes |
 
 ## 2. Cronograma de Desenvolvimento
@@ -20,8 +20,8 @@
 | :------: | --------- | -------------------- | -----------: | :------: |
 | 1 | 18/02 à 25/02 | Formação do grupo | Todos | em andamento |
 | 2 | 06/03 á xx/xx | Contato com comunidade e Levantamento de demandas | Todos | em andamento |
-| 3 | | Definição de requisitos | | em refinamento |
-| 4 | | Prototipação / wireframes | | concluido |
+| 3 | 11/03 | Definição de requisitos | Todos | concluido |
+| 4 | 12/03 | Prototipação / wireframes | | concluido |
 | 5 | | Desenvolvimento — Sprint 1 | | não iniciado |
 | 6 | | Desenvolvimento — Sprint 2 | | não iniciado |
 | 7 | | Validação com a comunidade | | não iniciado |
@@ -51,7 +51,6 @@
 
 ### Ambiente de desenvolvimento
 
-(Descreva o setup: editor de código, controle de versão, branches, etc.)
 O editor de código principal é o VSCode com plugin continue.dev, esse plugin faz uma ponte com o programa Ollama e roda uma LLM local (Qwen3-Coder-16B).  
 O controle da versão é feito pelo git integrado ao VSCode.
 Foi utilizado os aplciativos auxiliares DBBrowser.
@@ -62,7 +61,6 @@ O cenário de testes é feito de forma manual, validando se as novas funcionalid
 
 ### Estratégia de deploy
 
-(Onde e como a aplicação será hospedada?)
 A aplicação será hospedade no githubpages. O código baixa automaticamente o banco de dados do github para facilitar a atualização e mudança de conteúdo de forma rápida.
 
 ## 5. Riscos e Mitigações
@@ -72,7 +70,7 @@ A aplicação será hospedade no githubpages. O código baixa automaticamente o 
 | Atraso no cronograma | | | |
 | Dificuldade técnica inesperada | Baixa | | |
 | Comunidade indisponível para reuniões | | | |
-| Problemas de infraestrutura no dia da entrega | Alta | Não conseguir entregar o software. | Backups offline. |
+| Problemas de infraestrutura no dia da entrega | Alta | Não conseguir entregar o software. | Backups offline, arquivo java. |
 
 ## 6. Comunicação do Grupo
 
