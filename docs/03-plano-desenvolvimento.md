@@ -21,7 +21,7 @@
 | 1 | 18/02 à 25/02 | Formação do grupo | Todos | em andamento |
 | 2 | 06/03 á xx/xx | Contato com comunidade e Levantamento de demandas | Todos | em andamento |
 | 3 | 11/03 | Definição de requisitos | Todos | concluido |
-| 4 | 12/03 | Prototipação / wireframes | | concluido |
+| 4 | 19/03 | Prototipação / wireframes | | concluido |
 | 5 | | Desenvolvimento — Sprint 1 | | não iniciado |
 | 6 | | Desenvolvimento — Sprint 2 | | não iniciado |
 | 7 | | Validação com a comunidade | | não iniciado |
@@ -41,7 +41,7 @@
 | ------- | :------------: | ---------------------- |
 | Demandas levantadas | 9/03 | Registro de contato com a comunidade |
 | Requisitos definidos | 11/03 | Documento `02-documento-requisitos.md` preenchido |
-| Protótipo aprovado | 12/03 | Wireframes validados com a comunidade |
+| Protótipo aprovado | 19/03 | Wireframes validados com a comunidade |
 | MVP funcional | | Funcionalidades mínimas operacionais |
 | Deploy final realizado | | Aplicação acessível pela Internet |
 | Entrega presencial | | Software apresentado à comunidade |
