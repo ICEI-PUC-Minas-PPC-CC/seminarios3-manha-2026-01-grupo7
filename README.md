@@ -9,19 +9,22 @@
 -->
 <!-- O cabeçalho disso aqui-->
 <div align="center">
-  <h1>Plataforma Tuco</h1>
+  <h1 style="display: inline; margin: 0;">Plataforma Tuco</h1>
+</div>
+<div align="center">
   <!-- A imagem do tuco -->
   <img src="https://github.com/user-attachments/assets/be9b27db-5c80-422b-b701-e46a1c20ecce" width="120" alt="Mascote Synapse">
   <p><em>Sim, um tucano. Porque eles são bonitos!</em></p>
   <!-- O botão de visitantes '-' -->
   <img src="https://vbr.nathanchung.dev/badge?page_id=ICEI-PUC-Minas-seminarios3-manha-2026-01-grupo7&color=2376ae&lcolor=30363d&style=for-the-badge&logo=github&logoColor=white&text=VISITANTES" alt="Visitantes">
+  <img alt="Desenvolvido com IA" src="https://img.shields.io/badge/%F0%9F%A4%96_Desenvolvido_com_IA-6366F1?style=for-the-badge&logo=openai&logoColor=white">
   <!-- Botões para acessar outros links -->
   <p>
     <a href="https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/">
-      <img src="https://img.shields.io/badge/🚀_Testar_no_Navegador-2376ae?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Testar no Navegador">
+      <img src="https://img.shields.io/badge/Testar_no_Navegador-2376ae?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Testar no Navegador">
     </a>
     <a href="https://forms.gle/TrXwMtKvfEEvAwcs7">
-      <img src="https://img.shields.io/badge/📋_Pesquisa_de_Satisfação-4CAF50?style=for-the-badge&logo=google-forms&logoColor=white" alt="Pesquisa de Satisfação">
+      <img src="https://img.shields.io/badge/Pesquisa_de_Satisfação-4CAF50?style=for-the-badge&logo=google-forms&logoColor=white" alt="Pesquisa de Satisfação">
     </a>
   </p>
 </div>
