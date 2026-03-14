@@ -1,7 +1,5 @@
 <!--
----
 ## ⚠️ Lembretes Importantes
-
 - O grupo **deve manter contato com a comunidade** ao longo do semestre (reuniões presenciais ou online).
 - A entrega do software **deve ser presencial** (no colégio parceiro ou na PUC Minas).
 - **Tirem muitas fotos** no dia da entrega — elas serão anexadas ao relatório APC.
@@ -9,81 +7,44 @@
 - Idealmente, o software deve ser **hospedado em nuvem** para acesso pela Internet.
 - Sem o desenvolvimento do software, entrega presencial e preenchimento dos relatórios, o grupo **não pode ser aprovado**.
 -->
-
-<!--Cabeçalho-->
+<!-- O cabeçalho disso aqui-->
 <div align="center">
+  <h3>Plataforma Tuco</h3>
+  <!-- A imagem do tuco -->
   <img src="https://github.com/user-attachments/assets/be9b27db-5c80-422b-b701-e46a1c20ecce" width="120" alt="Mascote Synapse">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FICEI-PUC-Minas-PPC-CC%2Fseminarios3-manha-2026-01-grupo7%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FICEI-PUC-Minas-PPC-CC%2Fseminarios3-manha-2026-01-grupo7%2F&label=VISITANTES&labelColor=%23f47373&countColor=%23263759" /></a>
-  <h1>Plataforma Tuco</h1>
-  *Sim, um tucano. Porque eles são bonitos.*
-
-  [🚀 Testar no Navegador](https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/) • [📋 Pesquisa de Satisfação](https://forms.gle/TrXwMtKvfEEvAwcs7)
+  <p><em>Sim, um tucano. Porque eles são bonitos!</em></p>
+  <!-- O botão de visitantes '-' -->
+  <img src="https://vbr.nathanchung.dev/badge?page_id=ICEI-PUC-Minas-seminarios3-manha-2026-01-grupo7&color=2376ae&lcolor=30363d&style=for-the-badge&logo=github&logoColor=white&text=VISITANTES" alt="Visitantes">
+  <!-- Botões para acessar outros links -->
+  <p>
+    <a href="https://icei-puc-minas-ppc-cc.github.io/seminarios3-manha-2026-01-grupo7/src/navegador/">
+      <img src="https://img.shields.io/badge/🚀_Testar_no_Navegador-2376ae?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Testar no Navegador">
+    </a>
+    <a href="https://forms.gle/TrXwMtKvfEEvAwcs7">
+      <img src="https://img.shields.io/badge/📋_Pesquisa_de_Satisfação-4CAF50?style=for-the-badge&logo=google-forms&logoColor=white" alt="Pesquisa de Satisfação">
+    </a>
+  </p>
 </div>
 
-<img width="240" alt="imagem de marketing flashcard" src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/prints/marketing_tuco_flashcards.png">
-
-
 <!-- Identificação do repositorio-->
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <h3> 💻 Seminários III — Projeto Extensionista </h3>
-
-> **Disciplina:** Seminários III — PUC Minas  
-> **Professor:** Harison Herman Silva  
-> **Formato:** Sala de aula invertida
-
-   </td>
-   <td width="100%" valign="top">
-
-<h3> 👥 Identificação do Grupo </h3>
-
-| Campo | Informação |
-| :--- | :--- |
-| **Grupo** | *Tuco* |
-| **Integrante** | *Felipe Gonçalves Chagas Leite* |
-| **E-mail** | *felipe.chagas@sga.pucminas.br* |
-| **Parceiro** | *Esc. Mun. Dr. Tarso de Coimbra* |
-
-   </td>
+    <td width="50%" valign="top">
+      <h3>💻 Seminários III — Projeto Extensionista</h3>
+      <b>Disciplina:</b> Seminários III — PUC Minas<br>
+      <b>Professor:</b> Harison Herman Silva<br>
+      <b>Formato:</b> Sala de aula invertida
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 Identificação do Grupo</h3>
+      <b>Grupo:</b> Tuco<br>
+      <b>Integrante:</b> Felipe Gonçalves Chagas Leite<br>
+      <b>E-mail:</b> felipe.chagas@sga.pucminas.br<br>
+      <b>Parceiro:</b> Esc. Mun. Dr. Tarso de Coimbra
+    </td>
   </tr>
 </table>
-</td>
 
-## 🎯 Software em Desenvolvimento
-
-### 🦜 Plataforma Tuco (apelido de tucano) 🦜
-Quem não conhece o aplicativo Duolingo (aprendizado de linguas), o Mimo (aprendizado de programação) e por fim o NotebookLM?
-O tuco é diferente, explorando todas as ideias/técnicas de aprendizado. Todo o código foi pensado para ser uma interface genérica para aceitar, qualquer tipo de conteúdo.
-A plataforma tem mais de 8 modelos de puzzles e +10 ideias em etapa de refinamento.
-E utiliza o metódo de flashcards com repetição espaçada.
-
-### Motivação
-Esse é um dos meus projetos pessoais, que estava desenvolvendo com um amigo a alguns anos atrás. Eu precisava de um aplicativo para aprender programação, só que a maioria dos aplicativos que encontrei, eram pagos e precisava de uma conexão online. Além disso eram chatos e com conteúdo muito simples.
-
-### Objetivo
-1. Estudar se o design está amigável ao público, explorando diferentes UIs.
-2. Explorar novas ideias de puzzle e adequar a plataforma a pessoa com deficiência.
-3. Lançar essa plataforma para o mercado, com a publicação nas lojas oficias de aplicativos.
-
-### Demandas e Desafios
-Integração com vlibras em todas as plataformas (foi planejado para web).
-Criação de novos conteudos/puzzles para a escola.
-
-### Beneficios
-#### Para a comunidade
-- Um aplicativo gratuito de verdade.
-- Aprendizado facilitado em qualquer dispositivo.
-- Correção de problemas e atualizações. (eu tenho um carinho por esse projeto e quero manter a aplicação atualizada em meu tempo livre, além do período da disciplina.)
-
-#### Para mim
-- Aprendendo um pouco sobre arquitetura de software e design.
-- Estou conhecendo muitas blibiotecas e regras de desenvolvimento, para manter o projeto de fácil manutenção.
-- Alguns puzzles criados, envolve diretamente conteúdos já estudados em AED II.
-- Aumento da criatividade, pensar em puzzles e novas funcionalidades (leva mais tempo do que programar).
-- Um app para eu revisar e continuar aprendendo linguagens de programação.
-
----
 
 ## 📁 Estrutura do Repositório
 - [README.md](https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7) - *Este arquivo*
@@ -101,7 +62,58 @@ Criação de novos conteudos/puzzles para a escola.
   - [🖥️ Prints da Aplicação](evidencias/prints/)
 - [📂 relatorios/](relatorios/) — *Finalização*
   - [📊 07. Relatório de Atividades APC](relatorios/07-relatorio-atividades.md)
----
+
+
+## 🎯 Software em Desenvolvimento
+
+<h3 align="center"> ✨ Tecnologias Utilizadas </h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</div>
+
+### 📖 Sobre o Projeto
+
+A **Plataforma Tuco** é uma aplicação educacional, com foco total em **aprendizado ativo** e **acessivel**.  
+Se você já conhece aplicativos como Duolingo (aprendizado de idiomas), Mimo (programação) e o NotebookLM, vai entender a proposta, mas o Tuco vai além:
+1. **Abordagem Variada:** Procura explorar todas as ideias/técnicas de aprendizado.
+2. **Diversidade de Práticas:** Mais de **8 tipos de puzzles** (com mais 10 ideias em fase de refinamento).
+3. **Revisões:** Sistema inteligente de **flashcards com repetição espaçada**
+4. **Expansivel:** Pode ser utilizada para qualquer tipo de conteúdo, permite o usuário criar seu próprio "espaço".
+5. **Offline e Multiplataforma:** Funciona sem internet e está disponível para Web, Android e Desktop.
+6. **Inclusão:** Em adaptação  para acessibilidade (suporte a VLibras).
+
+### 🖼️ Capturas de Tela
+<img width="240" alt="imagem de marketing flashcard" src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/prints/marketing_tuco_flashcards.png">
+
+## 💡 Motivação
+
+O Tuco nasceu da uma frustração pessoal com aplicativos atuais de ensino de programação: são pagos, exigem conexão constante com a internet e possuem um conteúdo muito básico.
+
+**Objetivos Principais:**
+* Estudar usabilidade real com usuários, explorando e adequando diferentes interfaces (UI).
+* Desenvolver novas ideias de puzzles e focar na acessibilidade para pessoas com deficiência.
+* Criar uma base sólida para possível lançamento nas lojas oficiais de aplicativos.
+
+## 📊 Benefícios do Projeto
+
+**Para a Comunidade:**
+* Acesso a um aplicativo **100% gratuito** de verdade.
+* Aprendizado facilitado em praticamente qualquer dispositivo.
+* Correção de problemas e atualizações. (Pretendo manter a aplicação em meu tempo livre, mesmo após a disciplina).
+
+**Para mim**  
+* Aprendendo um pouco sobre arquitetura de software e design. 
+* Contato com bibliotecas e frameworks amplamente utilizados no mercado atual.
+* Adaptação e aplicação de boas práticas de desenvolvimento (SOLID, clean code, etc.).
+* Visualização prática de conteúdos de AED II em puzzles. (Cruzadinha usa backtracking)
+* Exercício criativo, pensar em puzzles e novas funcionalidades (leva mais tempo do que programar).
+* Serve para eu revisar e continuar aprendendo linguagens de programação. 
 
 ## 📋 Fluxo de Trabalho
 
