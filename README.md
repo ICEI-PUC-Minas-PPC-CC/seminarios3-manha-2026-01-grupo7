@@ -8,8 +8,8 @@
 - Sem o desenvolvimento do software, entrega presencial e preenchimento dos relatórios, o grupo **não pode ser aprovado**.
 -->
 <!-- O cabeçalho disso aqui-->
-<div align="center">
-  <h3>Plataforma Tuco</h3>
+<h1>Teste</h1>
+  <h1>Plataforma Tuco</h1>
   <!-- A imagem do tuco -->
   <img src="https://github.com/user-attachments/assets/be9b27db-5c80-422b-b701-e46a1c20ecce" width="120" alt="Mascote Synapse">
   <p><em>Sim, um tucano. Porque eles são bonitos!</em></p>
