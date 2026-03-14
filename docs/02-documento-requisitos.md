@@ -4,13 +4,11 @@
 > **Aplicação:** *Tuco*  
 > **Comunidade:** *Esc. Mun. Dr. Tarso de Coimbra*
 
----
-
 ## 1. Visão Geral
 
-A aplicação é uma plataforma educacional, inicialmente destinada para aprendizado de computação e está sendo expandida para outros conteúdos. Tornando uma ferramenta amigavél de aprendizado.  
-O problema é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e também a falta de prática de exercícios para fixação e desenvolvimento cognitivo. (DESMURGET)[^2]  
-No caso da Tarso, o problema é a dificuldade na leitura de textos e navegação em aplicações. O conteúdo definido como tema foi o ensino de valores. 
+A aplicação é uma plataforma educacional, inicialmente destinada para aprendizado de computação e está sendo expandida para outros conteúdos. Tornando-se uma ferramenta amigavél de aprendizado.  
+Alguns problemas que até eu mesmo tenho é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e também a falta de prática de exercícios para fixação e desenvolvimento cognitivo. (DESMURGET)[^2]  
+No caso da Tarso, o problema é a dificuldade na leitura de textos e em navegação de aplicações. O conteúdo definido como tema, foi o ensino de valores. 
 
 ## 2. Público-Alvo
 
@@ -18,7 +16,7 @@ No caso da Tarso, o problema é a dificuldade na leitura de textos e navegação
 | ------- | ----------- |
 | Perfil dos usuários | Pessoas com deficiencia auditiva |
 | Faixa etária | Maiores de 12 anos |
-| Necessidades de acessibilidade | Libras e baixa quantidade de texto com termos técnicos |
+| Necessidades de acessibilidade | Libras e baixa quantidade de texto com termos técnicos. |
 | Nível de familiaridade com tecnologia | Baixa |
 
 <!--
@@ -29,7 +27,7 @@ No caso da Tarso, o problema é a dificuldade na leitura de textos e navegação
 
 | ID | Requisito | Prioridade | Origem da demanda |
 | ---- | ---------- | :----------: | ------------------ |
-| RF01 | Análise do layout | *Alto* | Reunião com a comunidade em 11/03 |
+| RF01 | Análise do layout | *Alto* | Reunião com a comunidade em 19/03 |
 | RF02 | | | |
 | RF03 | | | |
 | RF04 | | | |
@@ -40,13 +38,13 @@ No caso da Tarso, o problema é a dificuldade na leitura de textos e navegação
 - [x] Acessibilidade: A aplicação deve ser acessível via navegador web.  
 - [x] Usabilidade:  A interface deve ser simples e intuitiva.  
 - [x] Compatibilidade: A aplicação deve funcionar em dispositivos móveis.
-- [ ] Visual: Design focado na experiência do usuário.
+- [x] Visual: Design focado na experiência do usuário.
 
 ## 5. Requisitos de Acessibilidade
 
 - [x] Interface predominantemente visual (ícones, cores, imagens)
 - [x] Textos curtos e objetivos
-- [ ] Botões grandes e identificáveis
+- [x] Botões grandes e identificáveis
 - [x] Contraste adequado de cores
 - [x] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [x] Sem dependência de áudio para funcionalidades essenciais
@@ -55,11 +53,11 @@ No caso da Tarso, o problema é a dificuldade na leitura de textos e navegação
 
 | Componente | Tecnologia |
 | ----------- | ----------- |
-| Front-end | HTML para caregar o backend JSP (aplicação java) |
+| Front-end | HTML para caregar o backend wasmJS (aplicação java) |
 | Back-end (se houver) | Java Multiplataforma |
-| Banco de dados (se houver) | SQLite e JSON |
+| Banco de dados (se houver) | SQLite + JSON |
 | Hospedagem | Github Pages |
-| Outras ferramentas | Guice, APT, NanoHTTPD, VsCode + (IA) Ollama Qwen3-Coder 16B |
+| Outras ferramentas | Guice, WasmJS, APT, NanoHTTPD, VsCode + (IA) Ollama Qwen3-Coder 16B |
 
 ## 7. Protótipo / Wireframes
 
@@ -99,7 +97,7 @@ No caso da Tarso, o problema é a dificuldade na leitura de textos e navegação
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
 - [x] *Edição fácil dos blocos de conteúdo*
-- [ ] *Um modo editor para criar puzzles*
+- [x] *Um modo editor para criar puzzles*
 - [ ] *Expansão para ios/mac.*
 
 [^1]:WOLF, Maryanne. O cérebro no mundo digital: os desafios da leitura na nossa era. Tradução de Rodolfo Ilari; Mayumi Ilari. São Paulo: Contexto, 2019.
