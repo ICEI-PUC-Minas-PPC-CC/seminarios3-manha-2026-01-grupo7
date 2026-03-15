@@ -3,11 +3,9 @@
 > **Grupo:** *Felipe Gonçalves*  
 > **Aplicação:** *Tuco*
 
----
-
+<!--
 > **Importante:** Mantenha este diário atualizado ao longo do semestre. Ele será a base para o cronograma do relatório de atividades no APC. Registre **todas** as atividades: reuniões com a comunidade, sessões de desenvolvimento, testes, decisões técnicas, etc.
-
----
+-->
 
 ## Registro de Atividades
 
@@ -16,43 +14,33 @@
 **O que foi feito:**
 1. Primeiro contato com a diretoria da escola.
 2. Planejamento do conteúdo e pesquisa.
-3. Aprimoramento do layout da plataforma.
-4. Reunião e validação do projeto com os alunos.
 
 **Quem participou:**
 Felipe Gonçalves Chagas Leite
-Professora Maria
-Alunos da Tarso
+Fabiana e Harison
 
 **Decisões técnicas tomadas:**
-Refinamento do layout da plataforma, foram disponibilizados 6 layouts para os alunos escolherem.
 Demanda 1: Redução de textos do conteúdo.
 
 **Próximos passos:**
 Atualização do site no github.
-*(O que precisa ser feito na próxima semana?)*
+Validação do layout com os alunos da tarso. (Eles vão me ajudar a fazer o layout final)
 
 ---
 
-### Semana 02 — ___/___/___ a ___/___/___
+### Semana 02 — 16/03/2026 a 20/03/2026
 
 **O que foi feito:**
+1. Adição da funcionalidade de edição/criação de topicos e puzzles.
+2. Reunião e validação do projeto com os alunos.
+3. Levantamento de ideias para o design e layout das páginas.
 
 **Quem participou:**
+Felipe Gonçalves
+Alunos da Tarso
 
 **Decisões técnicas tomadas:**
-
-**Próximos passos:**
-
----
-
-### Semana 03 — ___/___/___ a ___/___/___
-
-**O que foi feito:**
-
-**Quem participou:**
-
-**Decisões técnicas tomadas:**
+Alteração do visual inicial do site.
 
 **Próximos passos:**
 
