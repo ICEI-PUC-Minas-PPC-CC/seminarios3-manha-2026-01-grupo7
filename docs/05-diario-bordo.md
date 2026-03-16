@@ -35,7 +35,6 @@ Demanda 1: Redução de textos do conteúdo.
 **Próximos passos:**
 Atualização do site no github.
 Validação do layout com os alunos da tarso. (Eles vão me ajudar a fazer o layout final)
----
 
 ### Semana 02 — 16/03/2026 a 20/03/2026
 
@@ -64,7 +63,8 @@ Alunos da Tarso
 
 **Próximos passos:**
 
----
+
+
 
 *(Copie o bloco acima para cada semana de atividade ao longo do semestre.)*
 
