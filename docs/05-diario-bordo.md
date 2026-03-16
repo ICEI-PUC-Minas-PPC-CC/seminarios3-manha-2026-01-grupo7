@@ -25,12 +25,10 @@ Demanda 1: Redução de textos do conteúdo.
 ### Semana 01 — 06/03/2026 a 13/03/2026
 
 **O que foi feito:**
-1. Primeiro contato com a diretoria da escola.
-2. Planejamento do conteúdo e pesquisa.
-3. Adição do vlibras ao javascipt.
-4. Atualização de todo o projeto para suportar a leitura de v-libras na maioria do app. (A leitura de texto em botões foi desabilitados para não ter bugs)
-5. Importação de banco de dados automatica do github (Tem um bug de carregamento infinito ao tentar rodar offline o site, porque tenta baixar o .db antes)
-6. Modo de apresentação de slides.
+1. Adição do vlibras ao javascipt.
+2. Atualização de todo o projeto para suportar a leitura de v-libras na maioria do app. (A leitura de texto em botões foi desabilitados para não ter bugs)
+3. Importação de banco de dados automatica do github (Tem um bug de carregamento infinito ao tentar rodar offline o site, porque tenta baixar o .db antes)
+4. Modo de apresentação de slides.
 
 **Próximos passos:**
 Atualização do site no github.
@@ -63,10 +61,7 @@ Alunos da Tarso
 
 **Próximos passos:**
 
-
-
-
-*(Copie o bloco acima para cada semana de atividade ao longo do semestre.)*
+<!--*(Copie o bloco acima para cada semana de atividade ao longo do semestre.)*-->
 
 ---
 
