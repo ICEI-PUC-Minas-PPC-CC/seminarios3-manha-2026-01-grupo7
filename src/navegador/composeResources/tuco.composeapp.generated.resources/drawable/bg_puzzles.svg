@@ -1,0 +1,17 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Formas geométricas centrais -->
+    <path d="M400 300L500 360V480L400 540L300 480V360L400 300Z" fill="#0097A7" opacity="0.3"/>
+    <path d="M150 500L220 540V620L150 660L80 620V540L150 500Z" fill="#00796B" opacity="0.2"/>
+    <path d="M650 150L720 190V270L650 310L580 270V190L650 150Z" fill="#006064" opacity="0.25"/>
+    
+    <!-- Elementos de floresta -->
+    <path d="M0 800C100 700 300 750 400 800" stroke="#2E7D32" stroke-width="40" opacity="0.1"/>
+    <circle cx="700" cy="700" r="150" fill="#4CAF50" opacity="0.15"/>
+    
+    <!-- Folhas Tropicais -->
+    <path d="M300 100C340 60 400 60 440 100C400 140 340 140 300 100Z" fill="#388E3C" opacity="0.4" transform="rotate(-15 370 100)"/>
+    <path d="M100 200C140 160 200 160 240 200C200 240 140 240 100 200Z" fill="#43A047" opacity="0.3" transform="rotate(20 170 200)"/>
+    
+    <!-- Conexões -->
+    <path d="M400 540C400 650 200 600 150 660" stroke="#0097A7" stroke-width="3" stroke-dasharray="10 10" opacity="0.4"/>
+</svg>
