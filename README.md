@@ -121,8 +121,8 @@ O Tuco nasceu da uma frustração pessoal com aplicativos atuais de ensino de pr
 ## 📋 Fluxo de Trabalho
 
 1. [x] **Etapa 1 — Formação e Contato Inicial:** Preencher o `README.md`, contatar a comunidade, levantar demandas (`docs/06-registro-contatos.md`) e preencher o termo (`docs/01-termo-autorizacao.md`).
-2. [ ] **Etapa 2 — Requisitos:** Documentar os requisitos do software em contato com a comunidade (`docs/02-documento-requisitos.md`).
-3. [ ] **Etapa 3 — Desenvolvimento:** Desenvolver a aplicação (`src/`), seguindo o plano (`docs/03-plano-desenvolvimento.md`) e registrando o progresso (`docs/05-diario-bordo.md`).
+2. [x] **Etapa 2 — Requisitos:** Documentar os requisitos do software em contato com a comunidade (`docs/02-documento-requisitos.md`).
+3. [x] **Etapa 3 — Desenvolvimento:** Desenvolver a aplicação (`src/`), seguindo o plano (`docs/03-plano-desenvolvimento.md`) e registrando o progresso (`docs/05-diario-bordo.md`).
 4. [ ] **Etapa 4 — Entrega Presencial:** Entregar o software presencialmente à comunidade. Registrar fotos em `evidencias/fotos/`.
 5. [ ] **Etapa 5 — Relatórios:** Preencher os relatórios no APC usando como base no `relatorios/07-relatorio-atividades.md`.
 
