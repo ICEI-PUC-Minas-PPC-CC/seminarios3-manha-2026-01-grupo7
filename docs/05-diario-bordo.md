@@ -56,10 +56,14 @@ Alteração do visual inicial do site.
 **Quem participou:**
 Felipe Gonçalves
 Alunos da Tarso
+Professor Harison
+Professora Maria
 
 **Decisões técnicas tomadas:**
+Adicionar um "botão de favorito", permitindo que determinados elementos sejam destacados na lista pelo usuário.
 
 **Próximos passos:**
+Melhoramento do layout e preparação do conteúdo.
 
 <!--*(Copie o bloco acima para cada semana de atividade ao longo do semestre.)*-->
 
@@ -84,3 +88,5 @@ Alunos da Tarso
 ### Lições aprendidas
 
 (O que o grupo faria diferente no desenvolvimento? O que deu certo?)
+
+
