@@ -33,15 +33,17 @@ Fotos da reunião e futura visita presencial a escola para discussão de ideias.
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | |
-| Forma de contato | |
-| Participantes do grupo | |
-| Participantes da comunidade | |
-| Objetivo do contato | |
+| Data | 19/03/2025 |
+| Forma de contato | Presencial |
+| Participantes do grupo | Eu |
+| Participantes da comunidade | Todos |
+| Objetivo do contato | Melhoramento do layout |
 
 **Resumo do que foi tratado:**
+Promover uma pesquisa com os alunos da Tarso para melhorar o layout e a usabilidade do **Tuco**
 
 **Encaminhamentos:**
+
 
 ---
 
