@@ -43,7 +43,7 @@
       <b>Grupo:</b> Tuco<br>
       <b>Integrante:</b> Felipe Gonçalves Chagas Leite<br>
       <b>E-mail:</b> felipe.chagas@sga.pucminas.br<br>
-      <b>Parceiro:</b> Esc. Mun. Dr. Tarso de Coimbra
+      <b>Parceiro:</b> Tarso de Coimbra
     </td>
   </tr>
 </table>
