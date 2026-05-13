@@ -41,7 +41,7 @@ Validação do layout com os alunos da tarso. (Eles vão me ajudar a fazer o lay
 2. Novos layouts de blocos dos blocos de conteúdos.
 3. Novo puzzle "torre de palavras/hanoi". (em refinamento '-')
 4. Um botão no modo editor para gerar conteúdo/puzzles com IA (testado em todas plataformas com api do gemini)
-5. Adição de animações e melhora de layout de alguns puzzles (chat-argument agora se parece mais com uam conversa de whatsapp)
+5. Adição de animações e melhora de layout de alguns puzzles (chat-argument agora se parece mais com uma conversa de whatsapp)
 6. Adicionado +6 layouts de teste da tela inicial para apresentar aos alunos da Tarso.
 
 **Próximos passos:**
@@ -67,26 +67,56 @@ Melhoramento do layout e preparação do conteúdo.
 
 <!--*(Copie o bloco acima para cada semana de atividade ao longo do semestre.)*-->
 
+### Semana 03 — 11/05/2026 a 17/05/2026
+
+**O que foi feito:**
+1. Alteração do layout da tela inicial, formato de arvore.
+2. Adição da barra de rolagem.
+3. Conteúdo de valores
+4. Publicação na loja da playstore.
+
+**Próximos passos:**
+Entrega da aplicação.
+
+
+---
+
+### Dia 13/05/2026
+
+**O que foi feito:**
+1. Publicação da versão final na Google Play Store.
+2. Hospedagem da versão web atualizada no GitHub Pages.
+3. Demonstração das funcionalidades de acessibilidade (VLibras) e puzzles para alunos e professores.
+
+**Quem participou:**
+Felipe Gonçalves Chagas Leite
+Alunos da Tarso
+Professora Maria
+Professor Harison
+
+**Decisões técnicas tomadas:**
+Finalização da arquitetura e validação do funcionamento offline com banco de dados SQLite embarcado.
+
+**Próximos passos:**
+Manutenção contínua do aplicativo e análise de feedbacks pós-entrega.
+
 ---
 
 ## Registro da Entrega Presencial
 
-**Data:** ___/___/___  
-**Local:**  
-**Horário:** ___ às ___  
-**Participantes do grupo presentes:**  
-**Nº de participantes da comunidade:**
+**Data:** xx/05/2026  
+**Local:** PUC
+**Horário:** 
+**Participantes do grupo presentes:** Felipe Gonçalves Chagas Leite  
+**Nº de participantes da comunidade:** Aproximadamente 6 alunos e 2 professores.
 
 ### Descrição da entrega
 
-(Relatar como foi a entrega: demonstração do software, reação dos usuários, dúvidas que surgiram, etc.)
-
-### Feedback da comunidade
-
-(O que os usuários e responsáveis da comunidade acharam do software?)
+A entrega foi realizada de forma prática, utilizando o navegador para que os alunos pudessem testar a plataforma Tuco. Iniciei com uma breve apresentação das novas funcionalidades desenvolvidas após a oficina de design, destacando a navegação em formato de árvore e o sistema de flashcards.
 
 ### Lições aprendidas
 
-(O que o grupo faria diferente no desenvolvimento? O que deu certo?)
+A co-criação foi o ponto alto do projeto. Se tivesse que fazer algo diferente, teria iniciado os testes de usabilidade com a comunidade ainda mais cedo. O desenvolvimento multiplataforma se mostrou uma excelente escolha para atingir diferentes dispositivos com um único esforço de codificação.
+
 
 

@@ -12,22 +12,22 @@
 | Alunos da Tarso         | **Clientes:** Validação de conteúdo e feedback sobre usabilidade. |
 
 ## 2. Cronograma de Desenvolvimento
-| Semana | Período (dd/MM à dd/MM) | Atividade planejada                                      | Responsável          | Status       |
-|--------|--------------------------|---------------------------------------------------------|----------------------|--------------|
-| 1      | 25/02 à 06/03           | Formação do grupo (ninguem quis fazer comigo)            | Felipe               | Concluído   |
-| 2      | 06/03 à 09/03           | Contato com comunidade e Levantamento de demandas        | Todos                | Concluído   |
-| 3      | 09/03 à 11/03           | Definição de requisitos                                  | Fabiana              | Concluído   |
-| 4      | 11/03 à 19/03           | Prototipação / wireframes                                | Felipe               | Concluído   |
-| 5      | 18/03 à 25/03           | Desenvolvimento — Sprint 1 (melhoramento do layout)      | Felipe + IAs         | Em andamento |
-| 6      | 25/03 à 01/04           | Desenvolvimento — Sprint 2 (criação de conteudo)         | Felipe               | Não iniciado |
-| 7      | 01/04 à 08/04           | Validação com a comunidade                               | Todos                | Não iniciado |
-| 8      | 08/04 à 15/04           | Desenvolvimento — Sprint 3 (mais puzzles)                | Felipe + IAs         | Não iniciado |
-| 9      | 15/04 à 22/04           | Desenvolvimento — Sprint 4                               | Felipe + Qwen3-Coder | Não iniciado |
-| 10     | 22/04 à 29/04           | Testes e ajustes (manual em web, desktop e Android)      | Felipe               | Em andamento |
-| 11     | 29/04 à 06/05           | Deploy / hospedagem (GitHub Pages + banco auto-update)   | Felipe               | Concluído   |
-| 12     | 06/05 à 13/05           | Validação final com a comunidade                         | Todos                | Não iniciado |
-| 13     | 13/05 à 20/05           | **Entrega presencial** (apresentação na escola Tarso)    | Todos                | Não iniciado |
-| 14     | 20/05 à 27/05           | Preenchimento dos relatórios APC                         | Todos                | Não iniciado |
+| Semana | Período (dd/MM à dd/MM) | Atividade planejada                                    | Responsável          | Status       |
+| ------ | ----------------------- | ------------------------------------------------------ | -------------------- | ------------ |
+| 1      | 25/02 à 06/03           | Formação do grupo (ninguem quis fazer comigo)          | Felipe               | Concluído    |
+| 2      | 06/03 à 09/03           | Contato com comunidade e Levantamento de demandas      | Todos                | Concluído    |
+| 3      | 09/03 à 11/03           | Definição de requisitos                                | Fabiana              | Concluído    |
+| 4      | 11/03 à 19/03           | Prototipação / wireframes                              | Felipe               | Concluído    |
+| 5      | 18/03 à 25/03           | Desenvolvimento — Sprint 1 (melhoramento do layout)    | Felipe + IAs         | Concluido    |
+| 6      | 25/03 à 01/04           | Desenvolvimento — Sprint 2 (criação de conteudo)       | Felipe               | Concluido    |
+| 7      | 01/04 à 08/04           | Validação com a comunidade                             | Todos                | Concluido    |
+| 8      | 08/04 à 15/04           | Desenvolvimento — Sprint 3 (mais puzzles)              | Felipe + IAs         | Concluido    |
+| 9      | 15/04 à 22/04           | Desenvolvimento — Sprint 4                             | Felipe + Qwen3-Coder | COncluido    |
+| 10     | 22/04 à 29/04           | Testes e ajustes (manual em web, desktop e Android)    | Felipe               | Em andamento |
+| 11     | 29/04 à 06/05           | Deploy / hospedagem (GitHub Pages + banco auto-update) | Felipe               | Concluído    |
+| 12     | 06/05 à 13/05           | Validação final com a comunidade                       | Todos                | Não iniciado |
+| 13     | 13/05 à 20/05           | **Entrega presencial** (apresentação na escola Tarso)  | Todos                | Não iniciado |
+| 14     | 20/05 à 27/05           | Preenchimento dos relatórios APC                       | Todos                | Não iniciado |
 
 <!--Ajuste o cronograma conforme o calendário do semestre e os feriados.-->
 
@@ -74,12 +74,13 @@ Para as versões desktop (Windows/Linux) e mobile (Android), serão gerados buil
 
 ## 5. Riscos e Mitigações
 
-| Risco | Probabilidade | Impacto | Mitigação |
-| ------- | :------------: | :-------: | ---------- |
-| Atraso no cronograma | Baixo | Atraso na entrega final. | A vida é cheia de imprevistos. |
-| Dificuldade técnica inesperada | Baixa | Bugs no código | Consulta a IAs, reverter commits e procurar alternativas. |
-| Comunidade indisponível para reuniões | Média | Feedback atrasado | Agendamento prévio via Whastapp ou incomodar o professor para agendar a reunião. |
-| Problemas de infraestrutura no dia da entrega | Alta | Não conseguir entregar o software. | Backups offline, arquivo java. |
+| Risco                                         | Probabilidade |              Impacto               | Mitigação                                                                        |
+| --------------------------------------------- | :-----------: | :--------------------------------: | -------------------------------------------------------------------------------- |
+| Atraso no cronograma                          |     Baixo     |      Atraso na entrega final.      | A vida é cheia de imprevistos.                                                   |
+| Dificuldade técnica inesperada                |     Baixa     |           Bugs no código           | Consulta a IAs, reverter commits e procurar alternativas.                        |
+| Comunidade indisponível para reuniões         |     Média     |         Feedback atrasado          | Agendamento prévio via Whastapp ou incomodar o professor para agendar a reunião. |
+| Problemas de infraestrutura no dia da entrega |     Alta      | Não conseguir entregar o software. | Backups offline, arquivo java.                                                   |
+|                                               |               |                                    |                                                                                  |
 
 ## 6. Comunicação do Grupo :(
 | Canal                        | Finalidade                                      |

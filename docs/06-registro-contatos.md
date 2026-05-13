@@ -49,13 +49,13 @@ Promover uma pesquisa com os alunos da Tarso para melhorar o layout e a usabilid
 
 ### Contato #3
 
-| Campo | Informação |
-| ------- | ----------- |
-| Data | |
-| Forma de contato | |
-| Participantes do grupo | |
-| Participantes da comunidade | |
-| Objetivo do contato | |
+| Campo                       | Informação    |
+| --------------------------- | ------------- |
+| Data                        | 14/05/2026    |
+| Forma de contato            | Presencial    |
+| Participantes do grupo      | Eu mesmo.     |
+| Participantes da comunidade | Todos         |
+| Objetivo do contato         | Teste do jogo |
 
 **Resumo do que foi tratado:**
 

@@ -2,11 +2,11 @@
 
 > **Grupo:** *Felipe Gonçalves*  
 > **Aplicação:** *Tuco*  
-> **Comunidade:** *Esc. Mun. Dr. Tarso de Coimbra*
+> **Comunidade:** *Tarso de Coimbra*
 
 ## 1. Visão Geral
 
-A aplicação é uma plataforma educacional, inicialmente destinada para aprendizado de computação e está sendo expandida para outros conteúdos. Tornando-se uma ferramenta amigavél de aprendizado.  
+A aplicação é uma plataforma educacional, inicialmente destinada para aprendizado de computação e está sendo expandida para outros conteúdos. Tornando-se uma ferramenta amigável de aprendizado.  
 Alguns problemas que até eu mesmo tenho é a dificuldade de leitura em dispositivos digitais (WOLF)[^1] e também a falta de prática de exercícios para fixação e desenvolvimento cognitivo. (DESMURGET)[^2]  
 No caso da Tarso, o problema é a dificuldade na leitura de textos e em navegação de aplicações. O conteúdo definido como tema, foi o ensino de valores. 
 
@@ -90,8 +90,8 @@ No caso da Tarso, o problema é a dificuldade na leitura de textos e em navegaç
 (Quais funcionalidades compõem a versão mínima que pode ser entregue à comunidade?)
 
 - [x] *Integração com v-Libras*
-- [ ] *Layout mais intuitivo*
-- [ ] *Conteúdo com o tema valores.*
+- [x] *Layout mais intuitivo*
+- [x] *Conteúdo com o tema valores.*
 - [ ] *Novos puzzles mais visuais.*
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
