@@ -29,8 +29,8 @@
 | 11/05 | Desenvolvimento — Sprint 2               | Refatoração da tela inicial para o formato de árvore de aprendizado e adição de novos componentes de UI (barra de rolagem). |
 | 12/05 | Testes e ajustes                         | Resolução de bugs de carregamento offline e polimento da interface baseada no feedback dos alunos.                          |
 | 13/05 | Deploy em nuvem                          | Publicação do aplicativo na Google Play Store e atualização da versão web no GitHub Pages.                                  |
-|       | **Entrega presencial do software**       | Demonstração final e entrega do software para uso dos alunos e professores na instituição.                                  |
-|       | Preenchimento dos relatórios             | Finalização da documentação administrativa e registro das atividades no sistema APC.                                        |
+| 05/06 | **Entrega presencial do software**       | Demonstração final e entrega do software para uso dos alunos e professores na instituição.                                  |
+| 13/06 | Preenchimento dos relatórios             | Finalização da documentação administrativa e registro das atividades no sistema APC.                                        |
 
 ## Descrição das Atividades Realizadas
 
@@ -64,6 +64,6 @@ O software atendeu plenamente às demandas identificadas, oferecendo uma experi�
 
 A maior dificuldade é a preguiça. A coisa mais chata é fazer relatório.
 
-O maior aprendizado deste projeto foi a importância da **co-criação com o usuário final**. A oficina de design com os alunos mudou significativamente o rumo do layout da plataforma, tornando-a muito mais intuitiva. Desenvolver um projeto deste porte individualmente foi um desafio recompensador, que permitiu aplicar conceitos de arquitetura de software e design de interação em um cenário de impacto social real. 
+O maior aprendizado deste projeto foi a importância da validação com os alunos. Desenvolver um projeto deste porte individualmente foi um desafio, que permitiu aplicar conceitos de arquitetura de software e design de interação em um cenário de impacto social real. 
 
 
