@@ -91,8 +91,14 @@ Se você já conhece aplicativos como Duolingo (aprendizado de idiomas), Mimo (p
 5. **Offline e Multiplataforma:** Funciona sem internet e está disponível para Web, Android e Desktop.
 6. **Inclusão:** Em adaptação  para acessibilidade (suporte a VLibras).
 
-### 🖼️ Capturas de Tela
-<img width="240" alt="imagem de marketing flashcard" src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/prints/marketing_tuco_flashcards.png">
+### 🖼️ Fotos
+<table>
+  <tr>
+    <td><img width="240" alt="imagem de marketing flashcard" src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/prints/marketing_tuco_flashcards.png"></td>
+    <td><img width="240" alt="imagem de aluno usando o app" src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/fotos/WhatsApp%20Image%202026-05-29%20at%2010.28.34%20AM(1).jpeg"></td>
+    <td><img width="240" alt="imagem de outro aluno usando" src="https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-manha-2026-01-grupo7/blob/main/evidencias/fotos/WhatsApp%20Image%202026-05-29%20at%2010.28.35%20AM.jpeg"></td>
+  </tr>
+</table>
 
 ## 💡 Motivação
 
