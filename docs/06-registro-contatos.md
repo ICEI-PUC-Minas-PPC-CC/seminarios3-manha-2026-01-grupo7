@@ -51,19 +51,14 @@ Promover uma pesquisa com os alunos da Tarso para melhorar o layout e a usabilid
 
 | Campo                       | Informação    |
 | --------------------------- | ------------- |
-| Data                        | 14/05/2026    |
+| Data                        | 05/06/2026    |
 | Forma de contato            | Presencial    |
-| Participantes do grupo      | Eu mesmo.     |
+| Participantes do grupo      | Felipe   |
 | Participantes da comunidade | Todos         |
 | Objetivo do contato         | Teste do jogo |
 
-**Resumo do que foi tratado:**
+**Resumo do que foi tratado:** Entrega e teste do jogo.
 
-**Encaminhamentos:**
-
----
-
-(Copie o bloco acima para cada contato adicional.)
 
 ---
 
