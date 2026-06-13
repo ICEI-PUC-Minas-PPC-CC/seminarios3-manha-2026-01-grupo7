@@ -104,19 +104,18 @@ Manutenção contínua do aplicativo e análise de feedbacks pós-entrega.
 
 ## Registro da Entrega Presencial
 
-**Data:** xx/05/2026  
+**Data:** 05/06/2026  
 **Local:** PUC
 **Horário:** 
 **Participantes do grupo presentes:** Felipe Gonçalves Chagas Leite  
-**Nº de participantes da comunidade:** Aproximadamente 6 alunos e 2 professores.
+**Nº de participantes da comunidade:** Aproximadamente 4 alunos e 1 professor.
 
 ### Descrição da entrega
 
-A entrega foi realizada de forma prática, utilizando o navegador para que os alunos pudessem testar a plataforma Tuco. Iniciei com uma breve apresentação das novas funcionalidades desenvolvidas após a oficina de design, destacando a navegação em formato de árvore e o sistema de flashcards.
+A entrega foi realizada de forma prática, utilizando o navegador para que os alunos pudessem testar a plataforma Tuco. Onde os alunos testaram a plataforma e os jogos que tinham seguindo o tema valores humanos.
 
 ### Lições aprendidas
-
-A co-criação foi o ponto alto do projeto. Se tivesse que fazer algo diferente, teria iniciado os testes de usabilidade com a comunidade ainda mais cedo. O desenvolvimento multiplataforma se mostrou uma excelente escolha para atingir diferentes dispositivos com um único esforço de codificação.
+Se tivesse que fazer algo diferente, teria iniciado os testes de usabilidade com a comunidade ainda mais cedo, parece ter tido muita dificuldade com os textos.
 
 
 
